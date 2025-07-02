@@ -1,0 +1,18 @@
+{"time":"10:59","text":"ij","id":"cn0qmyvt"}
+{"time":"10:59","text":"ow","id":"cn0qmyvt"}
+{"time":"11:00","text":"ow","device":"Device 7856","color":"#43e97b"}
+{"time":"11:01","text":"ok","device":"Device 2482","color":"#2ec4b6"}
+{"time":"11:01","text":"my","device":"Device 2482","color":"#2ec4b6"}
+{"time":"11:01","text":"name","device":"Device 2482","color":"#2ec4b6"}
+{"time":"11:01","text":"is","device":"Device 2482","color":"#2ec4b6"}
+{"time":"11:01","text":"ok","device":"Device 2482","color":"#2ec4b6"}
+{"time":"11:01","text":"ok","device":"Device 2482","color":"#2ec4b6"}
+{"msgid":"msg6864fb38f327a5.38851596","time":"11:26","device":"PCsdsd","color":"#43e97b","avatar":"P","id":"ndivs9yf","type":"file","file":"uploads\/f6864fb38f233d5.16344565.png","filename":"image.png","filetype":"image\/png"}
+{"msgid":"msg6864fb3a70d758.91493813","time":"11:26","device":"PCsdsd","color":"#43e97b","avatar":"P","id":"ndivs9yf","type":"file","file":"uploads\/f6864fb3a6f6860.68135219.png","filename":"image.png","filetype":"image\/png"}
+{"msgid":"msg6864fb3aa8a4a8.69817162","time":"11:26","device":"PCsdsd","color":"#43e97b","avatar":"P","id":"ndivs9yf","type":"file","file":"uploads\/f6864fb3aa7e919.13935474.png","filename":"image.png","filetype":"image\/png"}
+{"msgid":"msg6864fb3b36d0d7.48412485","time":"11:26","device":"PCsdsd","color":"#43e97b","avatar":"P","id":"ndivs9yf","type":"file","file":"uploads\/f6864fb3b360fe2.99063325.png","filename":"image.png","filetype":"image\/png"}
+{"msgid":"msg6864fb3b6141e6.18815094","time":"11:26","device":"PCsdsd","color":"#43e97b","avatar":"P","id":"ndivs9yf","type":"file","file":"uploads\/f6864fb3b609382.51530930.png","filename":"image.png","filetype":"image\/png"}
+{"msgid":"msg6864fb3b8d24f5.82570427","time":"11:26","device":"PCsdsd","color":"#43e97b","avatar":"P","id":"ndivs9yf","type":"file","file":"uploads\/f6864fb3b8b8992.56975706.png","filename":"image.png","filetype":"image\/png"}
+{"msgid":"msg6864fb3bbb5a68.65293779","time":"11:26","device":"PCsdsd","color":"#43e97b","avatar":"P","id":"ndivs9yf","type":"file","file":"uploads\/f6864fb3bbab308.18350766.png","filename":"image.png","filetype":"image\/png"}
+{"msgid":"msg6864fb3be84924.54302939","time":"11:26","device":"PCsdsd","color":"#43e97b","avatar":"P","id":"ndivs9yf","type":"file","file":"uploads\/f6864fb3be61ac5.79987742.png","filename":"image.png","filetype":"image\/png"}
+{"msgid":"msg6864fb3c15fac3.85752207","time":"11:26","device":"PCsdsd","color":"#43e97b","avatar":"P","id":"ndivs9yf","type":"file","file":"uploads\/f6864fb3c155112.19765388.png","filename":"image.png","filetype":"image\/png"}
